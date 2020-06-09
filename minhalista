@@ -64,3 +64,6 @@ https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV Aparecida" tvg-logo="https://i.imgur.com/xyYIdif.png" group-title="Religioso",TV Aparecida
 http://caikron.com.br:1935/tvaparecida/tvaparecida.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="1HD Musci" tvg-logo="https://listaiptv.gratis/logos/imagens/1hd.png" group-title="Musica",1HD Musci
+http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/mono.m3u8
