@@ -67,3 +67,6 @@ http://caikron.com.br:1935/tvaparecida/tvaparecida.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="1HD Music" tvg-logo="https://listaiptv.gratis/logos/imagens/1hd.png" group-title="Musica",1HD Music
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/mono.m3u8
+
+#EXTINF:-1 tvg-id="Cartoon Network HD" tvg-logo="http://s.eyplay.io/logos/canais/cartoon.png" group-title="Desenho",Cartoon Network HD
+http://clubsrv.me:80/ederson/ederson123/1879
