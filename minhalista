@@ -1,0 +1,66 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Multishow HD" tvg-logo="http://s.eyplay.io/logos/canais/multishow.png" group-title="Canais @ Variedades",Multishow HD
+http://178.132.4.190:8880/CYPKNUJRE6/7768465949/159
+
+#EXTINF:-1 tvg-id="Multishow HD 2" tvg-logo="http://s.eyplay.io/logos/canais/multishow.png" group-title="Canais @ Variedades",Multishow HD 2
+http://178.132.4.190:8880/CYPKNUJRE6/7768465949/159
+
+#EXTINF:-1 tvg-id="Multishow 4K" tvg-logo="http://s.eyplay.io/logos/canais/multishow.png" group-title="Canais @ Variedades",Multishow 4K
+http://clientehdd.xyz:8080/17171717/17171717/17647
+
+#EXTINF:-1 tvg-id="Multishow 4K 2" tvg-logo="http://s.eyplay.io/logos/canais/multishow.png" group-title="Canais @ Variedades",Multishow 4K 2
+http://csrv.tv:80/Y340bbUfYX/4918610750/28660
+
+#EXTINF:-1 tvg-id="Nat Geo Wild" tvg-logo="http://s.eyplay.io/logos/canais/natgeowild.png" group-title="Canais @ Variedades",Nat Geo Wild
+http://178.132.4.190:80/R4tkpwyQiD/5631257496/158
+
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-logo="http://s.eyplay.io/logos/canais/discoverychannel.png" group-title="Canais @ Variedades",Discovery Channel
+http://178.132.4.190:80/R4tkpwyQiD/5631257496/7437
+
+#EXTINF:-1 tvg-id="Discovery Channel FHD" tvg-logo="http://s.eyplay.io/logos/canais/discoverychannel.png" group-title="Canais @ Variedades",Discovery Channel FHD
+http://cms-central.co:8080/luan1234/luan1234/6963
+
+#EXTINF:-1 tvg-id="Discovery Turbo HD" tvg-logo="http://s.eyplay.io/logos/canais/discoveryturbo.png" group-title="Canais @ Variedades",Discovery Turbo HD
+http://178.132.4.190:80/R4tkpwyQiD/5631257496/185
+
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-logo="http://s.eyplay.io/logos/canais/discoveryturbo.png" group-title="Canais @ Variedades",Discovery Turbo
+http://178.132.4.190:8880/R4tkpwyQiD/5631257496/106
+
+#EXTINF:-1 tvg-id="Discovery Turbo 2" tvg-logo="http://s.eyplay.io/logos/canais/discoveryturbo.png" group-title="Canais @ Variedades",Discovery Turbo 2
+http://list.deeplist.nl:80/mar04001411217/04001411217/1072
+
+#EXTINF:-1 tvg-id="VH1 HD" tvg-logo="http://s.eyplay.io/logos/canais/vh1.png" group-title="Musica",VH1 HD
+http://brasiltv.pro:8080/0207027411/6640269018/5252
+
+#EXTINF:-1 tvg-id="VH1 HD 2" tvg-logo="http://s.eyplay.io/logos/canais/vh1.png" group-title="Musica",VH1 HD 2
+http://brasiltv.pro:8080/0207027411/6640269018/5252
+
+#EXTINF:-1 tvg-id="Telecine Action HD" tvg-logo="http://iv.pe/E3y" group-title="Filmes",Telecine Action HD
+http://178.132.4.190:80/R4tkpwyQiD/5631257496/141
+
+#EXTINF:-1 tvg-id="Music TOP" tvg-logo="https://i.imgur.com/dKpLbh6.png" group-title="Musica",Music TOP
+http://live-edge01.telecentro.net.ar:1935/live/msctphd-720/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NRJ Hits TV" tvg-logo="https://i.imgur.com/d2wbX6e.jpg" group-title="Musica",NRJ Hits TV
+https://5be019f0d8c6e.streamlock.net/ngroup/ngrp:NRJHitsTV_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="VIVA TV" tvg-logo="https://i.imgur.com/qCLICfC.jpg" group-title="Musica",VIVA TV
+https://hls.myvideocontent.ru/hls2/vivarussia/index.m3u8
+
+#EXTINF:-1 tvg-id="4FUN TV" tvg-logo="https://i.imgur.com/c59VWgF.jpg" group-title="Musica",4FUN TV
+https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
+
+#EXTINF:-1 tvg-id="Terra VIVA" tvg-logo="https://i.imgur.com/hBaG4Ce.png" group-title="Canais @ Variedades",Terra VIVA
+http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TopTV" tvg-logo="https://listaiptv.gratis/logos/imagens/toptv.png" group-title="Musica",TopTV
+https://5d23bdca513db.streamlock.net/8006/8006/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canção Nova" tvg-logo="https://i.imgur.com/zJSUbTM.png" group-title="Religioso",Canção Nova
+https://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/master.m3u8
+
+#EXTINF:-1 tvg-id="Rede Vida" tvg-logo="https://i.imgur.com/h4WaIw5.jpg" group-title="Religioso",Rede Vida
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV Aparecida" tvg-logo="https://i.imgur.com/xyYIdif.png" group-title="Religioso",TV Aparecida
+http://caikron.com.br:1935/tvaparecida/tvaparecida.stream/playlist.m3u8
