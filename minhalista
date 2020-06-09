@@ -70,3 +70,6 @@ http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/mono.m3u8
 
 #EXTINF:-1 tvg-id="Cartoon Network HD" tvg-logo="http://s.eyplay.io/logos/canais/cartoon.png" group-title="Desenho",Cartoon Network HD
 http://clubsrv.me:80/ederson/ederson123/1879
+
+#EXTINF:-1 tvg-id="Boomerang FHD" tvg-logo="http://s.eyplay.io/logos/canais/boomerang.png" group-title="Desenho",Boomerang FHD
+http://clubsrv.me:80/ederson/ederson123/2018
