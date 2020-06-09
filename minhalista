@@ -73,3 +73,6 @@ http://clubsrv.me:80/ederson/ederson123/1879
 
 #EXTINF:-1 tvg-id="Boomerang FHD" tvg-logo="http://s.eyplay.io/logos/canais/boomerang.png" group-title="Desenho",Boomerang FHD
 http://clubsrv.me:80/ederson/ederson123/2018
+
+#EXTINF:-1 tvg-id="Boomerang HD" tvg-logo="http://s.eyplay.io/logos/canais/boomerang.png" group-title="Desenho",Boomerang HD
+http://178.132.4.190:8880/CYPKNUJRE6/7768465949/7765
